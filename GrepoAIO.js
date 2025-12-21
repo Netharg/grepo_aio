@@ -2,7 +2,7 @@
 // @name         Grepolis AIO Azert
 // @namespace    http://tampermonkey.net/
 // @version      6.1
-// @description  Version Intégrale - UI Dragable & Fix Alignement
+// @description  
 // @author       Azert
 // @match        https://*.grepolis.com/game/*
 // @grant        GM_setValue
