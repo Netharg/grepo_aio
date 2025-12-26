@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Grepolis AIO Azert
 // @namespace    http://tampermonkey.net/
-// @version      6.4
+// @version      7
 // @author       Azert
 // @match        https://*.grepolis.com/game/*
 // @grant        GM_setValue
@@ -9,8 +9,8 @@
 // @grant        GM_xmlhttpRequest
 // @grant        unsafeWindow
 // @run-at       document-start
-// @updateURL    https://github.com/Netharg/grepo_aio/blob/main/GrepoAIO.js
-// @downloadURL  https://github.com/Netharg/grepo_aio/blob/main/GrepoAIO.js
+// @updateURL    https://raw.githubusercontent.com/Netharg/grepo_aio/refs/heads/main/GrepoAIO.js
+// @downloadURL  https://raw.githubusercontent.com/Netharg/grepo_aio/refs/heads/main/GrepoAIO.js
 // @connect      discordapp.com
 // @connect      discord.com
 // @connect      script.google.com
