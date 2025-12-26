@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Grepolis AIO Azert
 // @namespace    http://tampermonkey.net/
-// @version      6.3
+// @version      6.4
 // @author       Azert
 // @match        https://*.grepolis.com/game/*
 // @grant        GM_setValue
